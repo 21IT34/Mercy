@@ -5,11 +5,11 @@ public static void main(String[] args)
   int num=10;
   if(num %2==0)
   {
-    System.out.println("{} is EVEN"+num);
+    System.out.println(num + "is even");
   }
   else
   {
-    System.out.println("{} is ODD"+num);
+    System.out.println(num + "is odd");
   }
 }
 }
